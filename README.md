@@ -1,1 +1,1 @@
-# sl-daily-and-sports-activities
+# daily-and-sports-activities-classifier
